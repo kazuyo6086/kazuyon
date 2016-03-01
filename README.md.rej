@@ -1,0 +1,6 @@
+diff a/README.md b/README.md	(rejected hunks)
+@@ -1,2 +1,3 @@
+ # kazuyon
+ 練習
++「＃＃」を頭に入れると見出しになって、「＊」を入れるとリストになるようです。
+\ No newline at end of file
